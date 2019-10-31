@@ -1,7 +1,7 @@
 # Predictive Analysis for Airline Customer Satisfaction
   Project folder contains the R file and the final project report.
   
-  Project:
+#  Project:
   ##  Data Analysis for Southeast Airlines ##
   
   Description:
