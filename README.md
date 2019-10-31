@@ -8,7 +8,7 @@
 The project revolves around analyzing the survey data collected from a huge number of customers traveling within the United States and use those data to provide recommendations to Southeast Airlines Co. The recommendations simply answer business questions to increase revenue and provide suggestions for improvement to the airlines for enhanced customer satisfaction.
 
 Objective:
-The objective of this project is to suggest our client, Southeast Airlines Co., the areas where they can improve to increase their customer???s satisfaction. Also, provide them with insights on what parameters are leading to less satisfaction among their customers compared to other airlines.
+The objective of this project is to suggest our client, Southeast Airlines Co., the areas where they can improve to increase their customer's satisfaction. Also, provide them with insights on what parameters are leading to less satisfaction among their customers compared to other airlines.
 
 Conclusion:
  Satisfaction rating tends to reduce as arrival delay increases 
