@@ -2,7 +2,6 @@
   Project folder contains the R file and the final project report.
   
 #  Project:
-  ##  Data Analysis for Southeast Airlines ##
   
   Description:
 The project revolves around analyzing the survey data collected from a huge number of customers traveling within the United States and use those data to provide recommendations to the Airlines with the least satisfied customers. The recommendations simply answer business questions to increase revenue and provide suggestions for improvement to the airlines for enhanced customer satisfaction.
